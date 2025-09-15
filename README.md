@@ -3,7 +3,9 @@ This project explores controllable text generation using transformer-based langu
 
 Our goal is to build an interactive storytelling system where users can:
 1.Provide a prompt (e.g., “A wizard opens a mysterious door…”)
+
 2.Select attributes like tone (dark, light, funny), genre (fantasy, horror, romance), or pacing
+
 3.Generate coherent, multi-turn story continuations that follow these user preferences.
 
 Storytelling is one of the most creative and human activities, but sometimes writers face writer’s block or game developers need to create dynamic narratives quickly.
