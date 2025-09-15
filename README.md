@@ -2,6 +2,7 @@
 This project explores controllable text generation using transformer-based language models.
 
 Our goal is to build an interactive storytelling system where users can:
+
 1.Provide a prompt (e.g., “A wizard opens a mysterious door…”)
 
 2.Select attributes like tone (dark, light, funny), genre (fantasy, horror, romance), or pacing
