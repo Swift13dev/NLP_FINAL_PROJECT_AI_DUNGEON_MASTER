@@ -7,5 +7,6 @@ Provide a prompt (e.g., “A wizard opens a mysterious door…”)
 Select attributes like tone (dark, light, funny), genre (fantasy, horror, romance), or pacing
 
 Generate coherent, multi-turn story continuations that follow these user preferences.
+
 Storytelling is one of the most creative and human activities, but sometimes writers face writer’s block or game developers need to create dynamic narratives quickly.
 This project aims to show how NLP can augment creativity by letting users collaborate with AI, guiding the story’s direction instead of passively reading AI-generated text.
