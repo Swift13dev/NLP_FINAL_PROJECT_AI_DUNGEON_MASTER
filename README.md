@@ -1,4 +1,4 @@
-# NLP_FINAL_PROJECT_AI_DUNGEON_MASTER
+# NLP_FINAL_PROJECT_DRONETALK
 This project explores controllable text generation using transformer-based language models.
 
 Our goal is to build an interactive storytelling system where users can:
