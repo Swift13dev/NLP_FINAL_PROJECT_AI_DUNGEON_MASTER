@@ -1,13 +1,4 @@
 # NLP_FINAL_PROJECT_DRONETALK
-This project explores controllable text generation using transformer-based language models.
-
-Our goal is to build an interactive storytelling system where users can:
-
-1.Provide a prompt (e.g., “A wizard opens a mysterious door…”)
-
-2.Select attributes like tone (dark, light, funny), genre (fantasy, horror, romance), or pacing
-
-3.Generate coherent, multi-turn story continuations that follow these user preferences.
-
-Storytelling is one of the most creative and human activities, but sometimes writers face writer’s block or game developers need to create dynamic narratives quickly.
-This project aims to show how NLP can augment creativity by letting users collaborate with AI, guiding the story’s direction instead of passively reading AI-generated text.
+DroneTalk is an NLP-based system that converts natural language commands into structured drone actions.
+Users can give voice or text instructions like “Fly 50 meters north and take a picture”, and the model extracts the intent (fly, capture) and parameters (direction, distance, task) to generate a ready-to-execute command plan.
+This project demonstrates intent classification, slot filling, and command generation for drone mission control.
